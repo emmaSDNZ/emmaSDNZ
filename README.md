@@ -12,4 +12,4 @@ let __init_ =()=>{
         }
     return __init_
 }
-console.log(__init_())
+//console.log(__init_())
