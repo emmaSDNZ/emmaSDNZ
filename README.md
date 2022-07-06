@@ -1,6 +1,6 @@
 
 ```js
-let __init_ =()=>{
+let __init_ = () =>{
      __init_ = { 
         userName: "emmaSNDZ",
         name: "Emanuel",
