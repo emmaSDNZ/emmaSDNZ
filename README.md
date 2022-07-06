@@ -1,6 +1,6 @@
 
-let __init_ =()=>{
-     __init_ = { 
+let __init =()=>{
+     __init = { 
         userName: "emmaSNDZ",
         name: "Emanuel",
         code: {
@@ -10,6 +10,6 @@ let __init_ =()=>{
             architecture: ['SPA', 'MVC', 'Serverless', 'microservices']
               }    
         }
-    return __init_
+    return __init
 }
-//console.log(__init_())
+
