@@ -1,3 +1,12 @@
+## Hello community GitHub 👋
+
+### I'm Emmanuel
+
+- A Computer Engineering Undergraduate Student, & Innovation with Technology 4.0, & Open Source enthusiast.
+(https://www.linkedin.com/in/emanuel-sudañez/)
+- ⭐ You may like [FOODFAST-app](https://github.com/emmaSDNZ/food-fast) 、[Web-Design](https://github.com/emmaSDNZ/web-design3D) 、or [Api-Rest](https://github.com/emmaSDNZ/API-REST-Node.js-ES6--Express-MongoDB-JWT)
+- 💬 Ask me about Javascript, React.js, Node.js and my projects on [isaias.e.sudanez@gmail.com](isaias.e.sudanez@gmail.com) , [linkedin](https://www.linkedin.com/in/emanuel-sudañez/)
+
 
 ```js
 
@@ -23,15 +32,6 @@ console.log(__init_())
 
 
 ```
-## Hello community GitHub 👋
-
-### I'm Emmanuel
-
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-(https://www.linkedin.com/in/emanuel-sudañez/)
-- ⭐ You may like [FOODFAST-app](https://github.com/emmaSDNZ/food-fast) 、[Web-Design](https://github.com/emmaSDNZ/web-design3D) 、or [Api-Rest](https://github.com/emmaSDNZ/API-REST-Node.js-ES6--Express-MongoDB-JWT)
-- 💬 Ask me about Javascript, React.js, Node.js and my projects on [isaias.e.sudanez@gmail.com](isaias.e.sudanez@gmail.com) , [linkedin]
-
 
 
 
