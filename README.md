@@ -10,8 +10,8 @@
 - or [Api-Rest](https://github.com/emmaSDNZ/API-REST-Node.js-ES6--Express-MongoDB-JWT)
 
 - 💬 Ask me about Javascript, React.js, Node.js and my projects on 
--[isaias.e.sudanez@gmail.com](isaias.e.sudanez@gmail.com) 
--[linkedin](https://www.linkedin.com/in/emanuel-sudañez/)
+- [isaias.e.sudanez@gmail.com](isaias.e.sudanez@gmail.com)
+- [linkedin](https://www.linkedin.com/in/emanuel-sudañez/)
 
 
 ```js
