@@ -19,7 +19,9 @@ let __init_ = () =>{
         softKill: ["Scrum", "Agile"],
         contact: {
             email: "isaias.e.sudanez@gmail.com",
-            linkedin: ("https://www.linkedin.com/in/emanuel-sudañez/")
+            linkedin:<a https://www.linkedin.com/in/emanuel-sudañez/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
         }
         }
     return __init_
