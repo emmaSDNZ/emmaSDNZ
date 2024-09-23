@@ -1,7 +1,7 @@
 ## Hello community GitHub 👋
 
 ### I'm Emmanuel
-
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmaSDNZy&theme=tokyonight&layout=compact)
 - A Computer Engineering Undergraduate Student, & Innovation with Technology 4.0, & Open Source enthusiast.
 
 ⭐ You may like:
