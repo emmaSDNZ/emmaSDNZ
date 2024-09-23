@@ -19,7 +19,7 @@ let __init_ = () =>{
         softKill: ["Scrum", "Agile"],
         contact: {
             email: "isaias.e.sudanez@gmail.com",
-            linkedin: "https://www.linkedin.com/in/emanuel-sudañez/"
+            linkedin: ["https://www.linkedin.com/in/emanuel-sudañez/"]
         }
         }
     return __init_
