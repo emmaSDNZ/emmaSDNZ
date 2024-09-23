@@ -5,11 +5,6 @@
 -Innovation Technician with 4.0 Technologies.
 
 
-💬 Ask me about Javascript, React.js, Node.js and my projects on 
-- [isaias.e.sudanez@gmail.com](isaias.e.sudanez@gmail.com)
-- [linkedin](https://www.linkedin.com/in/emanuel-sudanez-/)
-
-
 ```js
 
 let __init_ = () =>{
@@ -17,7 +12,7 @@ let __init_ = () =>{
         userName: "emmaSNDZ",
         name: "Emanuel",
         softTech: {
-            frontend:   ["HTML", "CSS","JAVASCRIP"],
+            frontend:   ["JAVASCRIP Delevoper"],
             backend:    ["Javascript", "Python"],
             dataBase:   ["SQL relationa", "NoSQL relational"]
               },
