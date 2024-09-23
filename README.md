@@ -12,9 +12,9 @@ let __init_ = () =>{
         userName: "emmaSNDZ",
         name: "Emanuel",
         softTech: {
-            frontend:   ["JAVASCRIP Delevoper"],
-            backend:    ["Javascript", "Python"],
-            dataBase:   ["SQL relationa", "NoSQL relational"]
+            frontend:   ["JAVASCRIP"],
+            backend:    ["Python"],
+            dataBase:   ["SQL relational", "NoSQL relational"]
               },
         softKill: ["Scrum", "Agile"],
         contact: {
