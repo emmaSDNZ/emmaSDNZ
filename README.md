@@ -13,13 +13,12 @@ let __init_ = () =>{
         name: "Emanuel",
         softTech: {
             frontend:   ["JAVASCRIP"],
-            backend:    ["Python"],
+            backend:    ["Python", "JAVASCRIP", "JAVA" ],
             dataBase:   ["SQL relational", "NoSQL relational"]
               },
         softKill: ["Scrum", "Agile"],
         contact: {
-            email: "isaias.e.sudanez@gmail.com",
-            linkedin: www.linkedin.com/in/emanuel-sudañez/
+            email: "isaias.e.sudanez@gmail.com"
         }
         }
     return __init_
