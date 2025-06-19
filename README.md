@@ -1,31 +1,12 @@
-## Hello community GitHub 👋
-
-### I'm Emmanuel
-
--Innovation Technician with 4.0 Technologies.
+## Hela, soy Ema👋
 
 
-```js
+## Stack
 
-let __init_ = () =>{
-     __init_ = { 
-        userName: "emmaSNDZ",
-        name: "Emanuel",
-        softTech: {
-            frontend:   ["JAVASCRIP"],
-            backend:    ["Python", "JAVASCRIP", "JAVA" ],
-            dataBase:   ["SQL relational", "NoSQL relational"]
-              },
-        softKill: ["Scrum", "Agile"],
-        contact: {
-            email: "isaias.e.sudanez@gmail.com"
-        }
-        }
-    return __init_
-}
-console.log(__init_())
+- **Backend:** Python · Django · DRF  
+- **Frontend:** JavaScript · Next.js (microfrontends)  
+- **Bases de datos:** PostgreSQL (principal motor que uso)  
+- **Data & ML:** Power BI · pandas · scikit-learn  
+- **Diseño de datos:** Modelado para aprendizaje supervisado
 
-```
-
-
-
+---
