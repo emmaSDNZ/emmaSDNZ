@@ -5,7 +5,7 @@
 
 - **Python Developer**
 - **JavaScript Developer**
-- **SQL Developer:**
+- **SQL Developer**
 
-# Tecnico en Ciencias de Datos e Inteligencia Artificial
-# Lic en Sistemas
+## Tecnico en Ciencias de Datos e Inteligencia Artificial
+## Lic en Sistemas
