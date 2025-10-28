@@ -1,4 +1,4 @@
-# Emanuel Sudáñez
+# Emanuel Sudañez
 
 ## Perfil Técnico
 Técnico en Ciencias de Datos e Inteligencia Artificial | Licenciado en Sistemas
