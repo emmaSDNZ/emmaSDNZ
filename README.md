@@ -1,6 +1,6 @@
 # Emanuel Sudañez
 
-Desarrollador Full Stack y Data Scientist con experiencia en proyectos de análisis de datos, machine learning y aplicaciones web. 
+Software Developer y Data Scientist con experiencia en proyectos de análisis de datos, machine learning y aplicaciones web. 
 Experto en integración de modelos de IA y automatización de procesos.
 
 ## Stack Principal
