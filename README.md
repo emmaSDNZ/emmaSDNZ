@@ -3,4 +3,4 @@
 ## Stack Principal
 - Python
 - JavaScript 
-- SQL / NoSQL: consultas, modelado y ETL  
+- SQL / NoSQL
