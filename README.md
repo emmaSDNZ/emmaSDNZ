@@ -1,5 +1,5 @@
 
-## Hola soy  Full-Stack AI Engineers 
+## Hola soy  Full-Stack AI Engineer
 ## Stack Principal
 - Python
 - JavaScript 
